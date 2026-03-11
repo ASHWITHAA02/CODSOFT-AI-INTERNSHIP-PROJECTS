@@ -1,0 +1,8 @@
+{
+  "greetings": ["hi", "hello", "hey"],
+  "responses": {
+    "greetings": "Hello! How can I help you today?",
+    "name": "I am an AI chatbot created for the CodSoft internship.",
+    "bye": "Goodbye! Have a great day!"
+  }
+}
